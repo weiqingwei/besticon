@@ -1,4 +1,4 @@
-module github.com/mat/besticon
+module  github.com/weiqingwei/besticon
 
 // +heroku goVersion go1.17
 
