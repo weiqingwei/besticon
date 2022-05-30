@@ -12,7 +12,7 @@ import (
 
 	"image/png"
 
-	"golang.org/x/image/bmp"
+	"github.com/sergeymakinen/go-bmp"
 )
 
 type icondir struct {
